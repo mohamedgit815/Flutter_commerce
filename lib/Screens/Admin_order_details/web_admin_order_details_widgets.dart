@@ -1,0 +1,3 @@
+abstract class BaseWebAdminOrdersDetailsWidgets {}
+
+class WebAdminOrdersDetailsWidgets implements BaseWebAdminOrdersDetailsWidgets {}

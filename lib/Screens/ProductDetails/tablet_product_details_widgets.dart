@@ -1,0 +1,3 @@
+abstract class BaseTabletProductDetailsWidgets {}
+
+class TabletProductDetailsWidgets implements BaseTabletProductDetailsWidgets {}

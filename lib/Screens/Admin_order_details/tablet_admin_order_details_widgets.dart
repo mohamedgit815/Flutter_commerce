@@ -1,0 +1,3 @@
+abstract class BaseTabletAdminOrdersDetailsWidgets {}
+
+class TabletAdminOrdersDetailsWidgets implements BaseTabletAdminOrdersDetailsWidgets {}

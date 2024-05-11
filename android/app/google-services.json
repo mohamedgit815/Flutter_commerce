@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260939547506",
+    "project_id": "flutterandnode",
+    "storage_bucket": "flutterandnode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260939547506:android:78069cbb7f0146f3ff93eb",
+        "android_client_info": {
+          "package_name": "com.example.commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXeMn87IalAoq1-Km2YF1h9kLMU_gwcqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
