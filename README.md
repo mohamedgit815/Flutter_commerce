@@ -2,7 +2,7 @@ A new Flutter project.
 
 ## Getting Started
 
-I have added Some Images like Live Location with socketIo and about Application generally
+I have added Some GIF Images like Live Location with socketIo, about Application generally
 
 ![four](https://github.com/mohamedgit815/Flutter_commerce/assets/95017336/fb549b63-3857-4e3a-adbf-599603e5b9cc)
 
